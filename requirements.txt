@@ -1,7 +1,7 @@
-Flask==2.0.2
+Flask
 Flask-CORS
-numpy==1.24.3
-pandas==1.3.0
-statsmodels==0.13.0
-scikit-learn==0.24.2
-tensorflow==2.5.0
+numpy
+pandas
+statsmodels
+scikit-learn
+tensorflow
