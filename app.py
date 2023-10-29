@@ -7,8 +7,6 @@ import numpy as np
 from statsmodels.tsa.arima.model import ARIMA
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.model_selection import train_test_split
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import LSTM, Dense
 from flask_cors import CORS
 
 # Create your Flask app
